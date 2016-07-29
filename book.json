@@ -1,0 +1,27 @@
+{
+  "author": "Sky Ao <aoxiaojian@gmail.cn>",
+  "description": "HTTP2学习笔记, 记录HTTP2的学习过程和日常使用",
+  "extension": null,
+  "generator": "site",
+  "sidebar": {
+    "Sky@gitbook": "https://skyao.gitbooks.io"
+  },
+  "output": null,
+  "pdf": {
+    "fontSize": 12,
+    "footerTemplate": null,
+    "headerTemplate": null,
+    "margin": {
+      "bottom": 36,
+      "left": 62,
+      "right": 62,
+      "top": 36
+    },
+    "pageNumbers": false,
+    "paperSize": "a4"
+  },
+  "plugins": [],
+  "title": "HTTP2学习笔记",
+  "variables": {
+  }
+}
