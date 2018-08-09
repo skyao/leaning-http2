@@ -8,3 +8,8 @@
     * [帧定义](frame/definition/index.md)
         * [DATA帧](frame/definition/data.md)
         * [HEADERS帧](frame/definition/headers.md)
+        * [PRIORITY帧](frame/definition/priority.md)
+        * [RST_STREAM帧](frame/definition/rst_stream.md)
+        * [SETTINGS帧](frame/definition/settings.md)
+        * [Push_PROMISE帧](frame/definition/push_promise.md)
+
