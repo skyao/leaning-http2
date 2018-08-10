@@ -1,4 +1,4 @@
-# PRIORITY帧
+# PUSH_PROMISE帧
 
 ## 帧格式
 

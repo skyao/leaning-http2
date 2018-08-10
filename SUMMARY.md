@@ -11,5 +11,8 @@
         * [PRIORITY帧](frame/definition/priority.md)
         * [RST_STREAM帧](frame/definition/rst_stream.md)
         * [SETTINGS帧](frame/definition/settings.md)
-        * [Push_PROMISE帧](frame/definition/push_promise.md)
+        * [PUSH_PROMISE帧](frame/definition/push_promise.md)
+        * [PING帧](frame/definition/ping.md)
+        * [GOAWAY帧](frame/definition/goaway.md)
+        * [CONTINUATION帧](frame/definition/continuation.md)
 
