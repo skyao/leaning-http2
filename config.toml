@@ -1,0 +1,87 @@
+baseurl = "http://localhost:1313/"
+languageCode = "zh-cn"
+title = "HTTP2学习笔记"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+preserveTaxonomyNames = true
+disablePathToLower = true
+
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = "c7442f5794ea2abb71c6ff05dc0b8779"
+
+[params]
+	# General information
+	author = "敖小剑"
+	keywords = "http/2,学习笔记,敖小剑"
+	description = "HTTP/2 是 HTTP 协议的最新版本。"
+	copyright = "版权所有，转载请注明出处"
+
+	# Repository
+	provider = "GitHub"
+	repo_url = "https://github.com/skyao/learning-http2"
+	
+	version = ""
+	logo = "images/logo.png"
+	favicon = ""
+	
+	permalink = "#"
+	
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+	
+	# Syntax highlighting theme
+	highlight_css  = ""
+	
+	[params.palette]
+		primary = "red"
+		accent  = "teal"
+	
+	[params.font]
+		text = "Ubuntu"
+		code = "Ubuntu Mono"
+
+[social]
+	twitter = ""
+	github  = "skyao"
+	email   = "aoxiaojian@gmail.com"
+
+
+[[menu.main]]
+	name   = "前言"
+	url    = "/"
+	weight = 1
+
+[[menu.main]]
+	name   = "HTTP/2介绍"
+	identifier = "introduction"
+	url    = "/introduction/"
+	weight = 100
+
+[[menu.main]]
+	name   = "帧"
+	identifier = "frame"
+	url    = "/frame/"
+	weight = 300
+
+[[menu.main]]
+	name   = "帧定义"
+	identifier = "frame-definition"
+	parent = "frame"
+	url    = "/frame-definition/"
+	weight = 350
+
+[[menu.main]]
+	name   = "流"
+	identifier = "stream"
+	url    = "/stream/"
+	weight = 400
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
+
+

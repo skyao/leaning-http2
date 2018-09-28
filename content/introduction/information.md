@@ -1,10 +1,25 @@
-# HTTP2 信息
+---
+date: 2018-09-29T06:54:00+08:00
+title: HTTP/2资料
+weight: 101
+menu:
+  main:
+    parent: "introduction"
+keywords:
+- 资料
+- 官方资料
+- 社区资料
+- 学习资料
+description : "收集HTTP/2的各种资料"
+---
 
-## 网站
+## 官方资料
+
+### 官方网站
 
 - [HTTP2官网](https://http2.github.io/)
 
-## 规范
+### 规范
 
 HTTP2包含两个规范：
 
@@ -17,7 +32,7 @@ HTTP2包含两个规范：
 - [HTTP/2 协议规范](https://blog.csdn.net/u010129119/article/details/79361949)
 - [HTTP/2.0 中英文对照](https://blog.csdn.net/Modest/article/details/51723201)
 
-## 实现
+### 实现
 
 在HTTP/2的官网上，记录有现有HTTP2的实现。
 
@@ -28,7 +43,9 @@ HTTP2包含两个规范：
 3. [Jetty](http://git.eclipse.org/c/jetty/org.eclipse.jetty.project.git/tree/?h=master)
 4. [Undertow](https://http2.undertow.io/)
 
-## 资料
+## 社区资料
+
+## 学习资料
 
 - [http2 explained](https://daniel.haxx.se/http2/): 中文翻译版本 [HTTP2讲解](https://www.kancloud.cn/kancloud/http2-explained)，从技术和协议层面介绍http2，适合初次接触和简单了解。
 - [[High Performance Browser Networking](https://hpbn.co/)  |  O'Reilly](https://hpbn.co/http2/)

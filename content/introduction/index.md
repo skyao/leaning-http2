@@ -1,4 +1,21 @@
-# HTTP2 介绍
+---
+date: 2018-09-29T06:59:00+08:00
+title: HTTP2介绍
+weight: 101
+keywords:
+- http/2
+- http2
+- 学习笔记
+- http2学习笔记
+description : "介绍HTTP/2协议的基本信息"
+---
+
+![](images/http2_logo.png)
+
+### 内容介绍
+
+HTTP/2 是 HTTP 协议的最新版本。
+
 ================
 
 从HTTP官方摘抄：
