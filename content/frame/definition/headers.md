@@ -1,4 +1,11 @@
-# HEADERS帧
+---
+date: 2018-09-29T07:07:00+08:00
+title: HEADERS帧
+weight: 352
+menu:
+  main:
+    parent: "frame-definition"
+---
 
 HEADERS帧(type=0x1)用于打开一个流，此外还携带一个header块片段。HEADERS帧可以在状态为”idle”，”reserved (local)”，”open”，或”half-closed (remote)”的流上发送。
 

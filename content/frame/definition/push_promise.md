@@ -1,4 +1,12 @@
-# PUSH_PROMISE帧
+---
+date: 2018-09-29T07:07:00+08:00
+title: PUSH_PROMISE帧
+weight: 356
+menu:
+  main:
+    parent: "frame-definition"
+---
+
 
 ## 帧格式
 

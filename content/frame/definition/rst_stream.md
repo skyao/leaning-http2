@@ -1,4 +1,12 @@
-# RST_STREAM帧
+---
+date: 2018-09-29T07:07:00+08:00
+title: RST_STREAM帧
+weight: 354
+menu:
+  main:
+    parent: "frame-definition"
+---
+
 
 ## 帧格式
 

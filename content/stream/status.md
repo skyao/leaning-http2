@@ -1,4 +1,11 @@
-# 流的状态
+---
+date: 2018-09-29T07:07:00+08:00
+title: 流的状态
+weight: 401
+menu:
+  main:
+    parent: "stream"
+---
 
 ## 生命周期
 

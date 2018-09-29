@@ -7,8 +7,6 @@ menu:
     parent: "frame-definition"
 ---
 
-
-
 DATA帧(type=0x0)传送与一个流关联的任意的可变长度的字节序列。一个或多个DATA帧被用于携带HTTP请求或响应载荷。
 
 DATA帧也可以包含填充字节。填充字节可以被加进DATA帧来掩盖消息的大小。填充字节是一个安全性的功能；

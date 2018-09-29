@@ -1,4 +1,12 @@
-# CONTINUATION帧
+---
+date: 2018-09-29T07:07:00+08:00
+title: CONTINUATION帧
+weight: 359
+menu:
+  main:
+    parent: "frame-definition"
+---
+
 
 ## 帧格式
 
