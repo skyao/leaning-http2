@@ -5,6 +5,9 @@ weight: 355
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- RST_STREAM帧
+description : "详细介绍HTTP/2的RST_STREAM帧"
 ---
 
 `SETTINGS`帧（type= 0x4）传达影响端点通信方式的配置参数，例如对对等行为的偏好和约束。 SETTINGS帧也用于确认收到这些参数。单独地，SETTINGS参数也可以被称为“setting”。

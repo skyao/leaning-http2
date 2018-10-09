@@ -5,6 +5,10 @@ weight: 301
 menu:
   main:
     parent: "frame"
+keywords:
+- HTTP2帧格式
+- HTTP2 frame format
+description : "详细介绍HTTP/2的帧格式"
 ---
 
 所有的帧都以一个固定的9字节首部开始，其后紧跟一个可变长度的载荷。

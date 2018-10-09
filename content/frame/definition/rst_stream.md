@@ -5,6 +5,9 @@ weight: 354
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- RST_STREAM帧
+description : "详细介绍HTTP/2的RST_STREAM帧"
 ---
 
 

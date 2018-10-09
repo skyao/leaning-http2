@@ -5,6 +5,9 @@ weight: 353
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- PRIORITY帧
+description : "详细介绍HTTP/2的PRIORITY帧"
 ---
 
 ## 帧格式

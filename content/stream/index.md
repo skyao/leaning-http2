@@ -2,6 +2,9 @@
 date: 2018-09-29T07:07:00+08:00
 title: 流
 weight: 400
+keywords:
+- HTTP2流
+description : "详细介绍HTTP/2的流"
 ---
 
 “流/stream”是HTTP/2连接内在客户端和服务器间独立的双向的交换的帧序列。流具有一些重要的特性：

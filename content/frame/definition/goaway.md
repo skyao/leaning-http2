@@ -5,6 +5,9 @@ weight: 358
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- GOAWAY帧
+description : "详细介绍HTTP/2的GOAWAY帧"
 ---
 
 ## 帧格式

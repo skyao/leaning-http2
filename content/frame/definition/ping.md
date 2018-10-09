@@ -5,6 +5,9 @@ weight: 357
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- PING帧
+description : "详细介绍HTTP/2的PING帧"
 ---
 
 ## 帧格式

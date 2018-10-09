@@ -5,6 +5,9 @@ weight: 351
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- DATA帧
+description : "详细介绍HTTP/2的DATA帧"
 ---
 
 DATA帧(type=0x0)传送与一个流关联的任意的可变长度的字节序列。一个或多个DATA帧被用于携带HTTP请求或响应载荷。

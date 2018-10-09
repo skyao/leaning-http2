@@ -6,10 +6,10 @@ menu:
   main:
     parent: "introduction"
 keywords:
-- 资料
-- 官方资料
-- 社区资料
-- 学习资料
+- HTTP2资料
+- HTTP2官方资料
+- HTTP2社区资料
+- HTTP2学习资料
 description : "收集HTTP/2的各种资料"
 ---
 

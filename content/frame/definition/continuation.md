@@ -5,6 +5,9 @@ weight: 359
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- CONTINUATION帧
+description : "详细介绍HTTP/2的CONTINUATION帧"
 ---
 
 

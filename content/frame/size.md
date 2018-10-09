@@ -5,6 +5,10 @@ weight: 301
 menu:
   main:
     parent: "frame"
+keywords:
+- HTTP2帧大小
+- HTTP2 frame side
+description : "详细介绍HTTP/2的帧大小"
 ---
 
 

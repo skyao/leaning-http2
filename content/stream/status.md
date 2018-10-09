@@ -5,6 +5,10 @@ weight: 401
 menu:
   main:
     parent: "stream"
+keywords:
+- 流的状态
+- 流的生命周期
+description : "详细介绍HTTP/2流的状态和生命周期"
 ---
 
 ## 生命周期

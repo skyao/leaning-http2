@@ -5,6 +5,9 @@ weight: 402
 menu:
   main:
     parent: "stream"
+keywords:
+- 流的标识符
+description : "详细介绍HTTP/2流的标识符"
 ---
 
 流用无符号的31位整数标识。

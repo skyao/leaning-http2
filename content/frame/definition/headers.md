@@ -5,6 +5,9 @@ weight: 352
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- HEADERS帧
+description : "详细介绍HTTP/2的HEADERS帧"
 ---
 
 HEADERS帧(type=0x1)用于打开一个流，此外还携带一个header块片段。HEADERS帧可以在状态为”idle”，”reserved (local)”，”open”，或”half-closed (remote)”的流上发送。

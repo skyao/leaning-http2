@@ -5,6 +5,9 @@ weight: 356
 menu:
   main:
     parent: "frame-definition"
+keywords:
+- PUSH_PROMISE帧
+description : "详细介绍HTTP/2的PUSH_PROMISE帧"
 ---
 
 

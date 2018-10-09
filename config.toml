@@ -1,4 +1,6 @@
 baseurl = "http://localhost:1313/"
+uglyurls = true
+relativeURLs=false
 languageCode = "zh-cn"
 title = "HTTP2学习笔记"
 theme = "hugo-material-docs"
